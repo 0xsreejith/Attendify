@@ -65,6 +65,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Sreejith - [Portfolio](https://sreejith-dev.web.app/) - your.email@example.com
+Sreejith - [Portfolio](https://sreejith-dev.web.app/) - csreejithofficial@gmail.com
 
 Project Link: [https://github.com/0xsreejith/Attendify](https://github.com/0xsreejith/Attendify)
